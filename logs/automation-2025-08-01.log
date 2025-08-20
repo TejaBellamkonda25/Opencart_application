@@ -1,0 +1,412 @@
+14:56:17.686 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:33)oggger - ....Testcase has been Finished
+15:00:25.508 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+15:00:25.957 [TestNG-tests-2] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+15:00:32.958 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+15:00:33.118 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:27)oggger - clicked on myaccount
+15:00:33.705 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:29)oggger - clicked on Register
+15:00:33.716 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:32)oggger - entering all the details of the customer
+15:00:39.188 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:44)oggger - Validating the messsage.....
+15:06:50.792 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+15:06:59.090 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+15:06:59.716 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:27)oggger - clicked on myaccount
+15:07:00.747 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:29)oggger - clicked on Register
+15:07:00.754 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:32)oggger - entering all the details of the customer
+15:07:06.693 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:44)oggger - Validating the messsage.....
+15:07:10.966 [TestNG-tests-3] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+15:07:11.300 [TestNG-tests-3] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:27)oggger - clicked on myaccount
+15:07:11.943 [TestNG-tests-3] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:29)oggger - clicked on Register
+15:07:11.944 [TestNG-tests-3] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:32)oggger - entering all the details of the customer
+15:07:17.013 [TestNG-tests-3] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:44)oggger - Validating the messsage.....
+19:37:50.383 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+19:38:00.241 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+19:38:09.518 [TestNG-tests-3] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+19:38:10.176 [TestNG-tests-3] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:27)oggger - clicked on myaccount
+19:38:11.192 [TestNG-tests-3] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:29)oggger - clicked on Register
+19:38:11.196 [TestNG-tests-3] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:32)oggger - entering all the details of the customer
+19:38:15.734 [TestNG-tests-3] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:44)oggger - Validating the messsage.....
+18:22:37.434 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+18:22:42.500 [main] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+18:22:44.783 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+18:33:40.587 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+18:33:43.278 [main] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+18:33:45.064 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+18:34:48.517 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+18:34:51.484 [main] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+18:34:52.897 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+18:36:21.501 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+18:36:23.960 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+10:26:31.161 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+10:26:31.874 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+10:26:35.687 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+10:27:44.135 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\test-output\testng-failed.xml"
+10:27:44.704 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\test-output\testng-failed.xml
+
+10:27:47.904 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+10:38:31.233 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+10:38:31.631 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+10:38:34.206 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+10:45:26.705 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+10:45:27.191 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+10:45:29.975 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+10:50:34.990 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+10:50:35.410 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+10:50:38.237 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+11:05:54.019 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+11:05:54.465 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+11:08:02.115 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\master.xml"
+11:08:02.564 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\master.xml
+
+11:08:07.466 [main] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+11:08:07.797 [main] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:27)oggger - clicked on myaccount
+11:08:08.266 [main] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:29)oggger - clicked on Register
+11:08:08.298 [main] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:32)oggger - entering all the details of the customer
+11:08:13.080 [main] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:44)oggger - Validating the messsage.....
+11:08:15.930 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+11:08:17.805 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:33)oggger - ....Testcase has been Finished
+11:25:17.365 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+11:25:17.754 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+11:55:11.456 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+11:55:11.928 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+11:55:20.273 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+12:08:29.479 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+12:08:30.074 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+12:08:33.693 [main] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+16:23:20.381 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+16:23:20.787 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+17:38:20.964 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+17:38:21.440 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+17:42:37.941 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+17:42:38.836 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+17:43:04.841 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+17:43:05.312 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+17:43:13.352 [main] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+17:43:19.484 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+17:49:02.611 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+17:51:29.944 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\master.xml"
+17:51:30.391 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\master.xml
+
+17:51:35.945 [main] INFO  testCases.TC004_SearchTest.verify_search(TC004_SearchTest.java:17)oggger - ..Started verify_search..
+17:51:38.426 [main] INFO  testCases.TC004_SearchTest.verify_search(TC004_SearchTest.java:36)oggger - ..verify_search is finished..
+19:10:26.397 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\master.xml"
+19:10:26.843 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\master.xml
+
+19:10:31.735 [main] INFO  testCases.TC004_SearchTest.verify_search(TC004_SearchTest.java:17)oggger - ..Started verify_search..
+19:10:34.565 [main] INFO  testCases.TC004_SearchTest.verify_search(TC004_SearchTest.java:36)oggger - ..verify_search is finished..
+19:11:45.586 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+19:12:29.717 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+19:12:30.144 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+19:13:20.117 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+19:13:20.596 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+19:13:29.068 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+19:16:05.154 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+19:16:05.595 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+19:16:11.833 [main] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+19:24:35.282 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+19:24:35.763 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+19:24:40.726 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+19:24:48.632 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+19:31:25.997 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+19:31:26.492 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+19:31:29.171 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+19:31:36.770 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+19:41:56.242 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+19:41:56.761 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+19:41:59.132 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+19:42:06.113 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:15)oggger - ...Starting the TestCase...
+19:51:28.652 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+19:51:29.113 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+19:51:31.394 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:16)oggger - ...Starting the TestCase...
+19:51:38.933 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:16)oggger - ...Starting the TestCase...
+19:56:32.614 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+19:56:33.097 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+19:56:35.471 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:16)oggger - ...Starting the TestCase...
+19:56:42.188 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:16)oggger - ...Starting the TestCase...
+10:32:56.084 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+10:32:56.251 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+10:32:57.412 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+10:32:57.568 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+10:33:03.435 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:16)oggger - ...Starting the TestCase...
+10:33:05.826 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:16)oggger - ...Starting the TestCase...
+10:33:19.609 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:16)oggger - ...Starting the TestCase...
+10:33:27.234 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:16)oggger - ...Starting the TestCase...
+10:39:43.876 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\grouping.xml"
+10:39:44.386 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\grouping.xml
+
+10:56:12.251 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml"
+10:56:12.690 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\Docker.xml
+
+10:56:14.929 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:16)oggger - ...Starting the TestCase...
+10:56:22.334 [TestNG-tests-1] INFO  testCases.TC002_loginPage.verify_login(TC002_loginPage.java:16)oggger - ...Starting the TestCase...
+11:20:01.492 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml"
+11:20:01.922 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+11:20:06.338 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+11:20:10.855 [TestNG-tests-3] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+11:25:16.592 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml"
+11:25:17.112 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+11:25:19.659 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+11:25:28.066 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+11:36:37.607 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml"
+11:36:38.090 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+11:36:40.715 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+11:36:48.235 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+11:49:59.938 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml"
+11:50:00.407 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+11:50:02.761 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+11:50:10.171 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+12:07:10.254 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml"
+12:07:10.729 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+12:07:13.786 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+12:07:22.011 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:24)oggger - Testcase Started!
+12:17:36.797 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml"
+12:17:37.258 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+12:17:39.795 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:15)oggger - Testcase Started!
+12:17:39.861 [TestNG-tests-1] ERROR testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:50)oggger - Test failed due to: no such element: Unable to locate element: {"method":"xpath","selector":"//i[@class='fa fa-user']"}
+  (Session info: chrome=138.0.7204.169)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [584ab8d60ec3e8c6435936f694c6f6f2, findElement {value=//i[@class='fa fa-user'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\EDIFY\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53476}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.21:4444/sess..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 584ab8d60ec3e8c6435936f694c6f6f2
+12:17:48.004 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:15)oggger - Testcase Started!
+12:17:48.047 [TestNG-tests-1] ERROR testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:50)oggger - Test failed due to: Unable to locate element: //i[@class='fa fa-user']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [2069e3bd-75e4-4d09-9f7a-e856f3b7eccd, findElement {value=//i[@class='fa fa-user'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 141.0, moz:accessibilityChecks: false, moz:buildID: 20250717180000, moz:debuggerAddress: true, moz:firefoxOptions: {args: [--headless, --width=1920, --height=1080], binary: C:\Program Files\Mozilla Fi...}, moz:geckodriverVersion: 0.36.0, moz:headless: true, moz:platformVersion: 10.0, moz:processID: 2220, moz:profile: C:\Users\EDIFY\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 2069e3bd-75e4-4d09-9f7a-e856f3b7eccd
+12:19:43.100 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml"
+12:19:43.770 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+12:19:47.060 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:15)oggger - Testcase Started!
+12:19:47.133 [TestNG-tests-1] ERROR testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:50)oggger - Test failed due to: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=138.0.7204.169)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [64020bf291a85d10a526d5cc707bcb2e, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\EDIFY\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53670}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.21:4444/sess..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 64020bf291a85d10a526d5cc707bcb2e
+12:19:54.768 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:15)oggger - Testcase Started!
+12:19:54.813 [TestNG-tests-1] ERROR testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:50)oggger - Test failed due to: Unable to locate element: //span[normalize-space()='My Account']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [45b33007-621f-4616-8239-e9162f691f59, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 141.0, moz:accessibilityChecks: false, moz:buildID: 20250717180000, moz:debuggerAddress: true, moz:firefoxOptions: {args: [--headless, --width=1920, --height=1080], binary: C:\Program Files\Mozilla Fi...}, moz:geckodriverVersion: 0.36.0, moz:headless: true, moz:platformVersion: 10.0, moz:processID: 11148, moz:profile: C:\Users\EDIFY\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 45b33007-621f-4616-8239-e9162f691f59
+12:22:48.136 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml"
+12:22:48.590 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+12:22:51.507 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:15)oggger - Testcase Started!
+12:22:51.594 [TestNG-tests-1] ERROR testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:50)oggger - Test failed due to: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=138.0.7204.169)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [0911cd12a80f349a502bc66f6f66abb9, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\EDIFY\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53961}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.21:4444/sess..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0911cd12a80f349a502bc66f6f66abb9
+12:23:01.147 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:15)oggger - Testcase Started!
+12:23:01.191 [TestNG-tests-1] ERROR testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:50)oggger - Test failed due to: Unable to locate element: //span[normalize-space()='My Account']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [f9716040-f358-4c07-9c98-fde9eeb5ea31, findElement {value=//span[normalize-space()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 141.0, moz:accessibilityChecks: false, moz:buildID: 20250717180000, moz:debuggerAddress: true, moz:firefoxOptions: {binary: C:\Program Files\Mozilla Fi...}, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16916, moz:profile: C:\Users\EDIFY\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: f9716040-f358-4c07-9c98-fde9eeb5ea31
+12:23:54.195 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\AppData\Local\Temp\testng-eclipse-2043198262\testng-customsuite.xml"
+12:23:54.579 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.583 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+12:23:54.586 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.586 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.586 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.588 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.589 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.589 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.598 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+12:23:54.610 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+12:23:54.612 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.613 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.615 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.615 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.616 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.616 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.618 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.619 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.619 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.620 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.624 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.624 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.625 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.625 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.626 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.627 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.630 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.630 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.630 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:23:54.631 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:23:54.641 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\AppData\Local\Temp\testng-eclipse-2043198262\testng-customsuite.xml
+
+12:23:54.668 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+12:23:55.055 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@4212a0c8: 153 ms
+12:23:55.098 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@4189d70b: 43 ms
+12:23:55.146 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@4b20ca2b: 46 ms
+12:23:55.173 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@75f65e45: 26 ms
+12:23:55.221 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2313052e: 48 ms
+12:23:55.223 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2bd2b28e: 1 ms
+12:24:59.736 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\AppData\Local\Temp\testng-eclipse-1601029831\testng-customsuite.xml"
+12:25:00.138 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.141 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.144 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.144 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.145 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.145 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.147 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.147 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.157 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+12:25:00.168 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+12:25:00.170 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.171 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.171 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.173 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.174 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.174 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.176 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.177 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.177 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.178 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.181 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.181 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.181 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.181 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.184 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.184 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.186 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.187 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.187 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:25:00.187 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:25:00.197 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\AppData\Local\Temp\testng-eclipse-1601029831\testng-customsuite.xml
+
+12:25:00.223 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+12:25:00.596 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@4212a0c8: 137 ms
+12:25:00.633 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@4189d70b: 36 ms
+12:25:00.685 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@4b20ca2b: 51 ms
+12:25:00.707 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@75f65e45: 20 ms
+12:25:00.741 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2bd2b28e: 34 ms
+12:25:00.743 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@16746061: 0 ms
+12:30:48.962 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml"
+12:30:49.457 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\EDIFY\framework\TestNG\opencartapp\CROSSBROWSER.xml
+
+12:30:52.720 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:15)oggger - Testcase Started!
+12:30:52.818 [TestNG-tests-1] ERROR testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:50)oggger - Test failed due to: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=138.0.7204.169)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [5efe9ecb376f9c518d4f89246b309b9e, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.169, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\EDIFY\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54393}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.0.21:4444/sess..., se:cdpVersion: 138.0.7204.169, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5efe9ecb376f9c518d4f89246b309b9e
+12:31:02.896 [TestNG-tests-1] INFO  testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:15)oggger - Testcase Started!
+12:31:02.934 [TestNG-tests-1] ERROR testCases.TC001_RegPage.verify_account_registration(TC001_RegPage.java:50)oggger - Test failed due to: Unable to locate element: //span[normalize-space()='My Account']
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [7055a5a5-9a91-43de-994d-fed086cefc10, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 141.0, moz:accessibilityChecks: false, moz:buildID: 20250717180000, moz:debuggerAddress: true, moz:firefoxOptions: {binary: C:\Program Files\Mozilla Fi...}, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 16568, moz:profile: C:\Users\EDIFY\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdpEnabled: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 7055a5a5-9a91-43de-994d-fed086cefc10
+12:31:39.551 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\EDIFY\AppData\Local\Temp\testng-eclipse--1255931611\testng-customsuite.xml"
+12:31:39.897 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:39.902 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+12:31:39.907 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:31:39.907 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
